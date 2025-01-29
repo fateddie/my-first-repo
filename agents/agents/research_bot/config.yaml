@@ -1,0 +1,9 @@
+news_sources:
+  - "Reuters"
+  - "Bloomberg"
+  - "CNBC"
+sentiment_analysis:
+  model: "finbert"
+  confidence_threshold: 0.75
+report_generation:
+  format: "pdf"
